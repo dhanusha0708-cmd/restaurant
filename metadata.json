@@ -1,0 +1,8 @@
+{
+  "name": "L'Aura & Hearth Restaurant Suite",
+  "description": "Comprehensive restaurant management system featuring guest table booking, interactive floor plan, and real-time inventory tracking dashboard with admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
